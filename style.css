@@ -1,0 +1,70 @@
+.Mainbox{
+  width: 100%;
+  margin: 0 auto;
+  background-color: GhostWhite;
+  text-align: center;
+  display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-direction: row;
+}
+.midle{
+display: flex;
+flex-direction: column;
+}
+.box1{
+  width: 255px;
+  background-color: white;
+  margin: 25px auto;
+  border-top: blue;
+  border-radius: 5px 5px 0 0;
+  box-sizing: border-box;
+  text-align: left;
+  border-top: 5px solid green;
+}
+.nuotrauka{
+   display: flex;
+justify-content:flex-end;
+}
+.box2{
+  width: 255px;
+  margin: 25px auto;
+  background-color: white;
+  box-sizing: border-box;
+  text-align: left;
+
+}
+.box3{
+  width: 255px;
+  margin: 25px auto;
+  background-color: white;
+  box-sizing: border-box;
+  text-align: left;
+}
+.box4{
+  width: 255px;
+  margin: 25px auto;
+  background-color: white;
+  box-sizing: border-box;
+  text-align: left;
+}
+.pav{
+  font-family: 'PT Sans Narrow', sans-serif;
+  text-align: center;
+  color: grey;
+}
+.pav1{
+  font-family: 'Quicksand', sans-serif;
+  text-align: center;
+  color: grey;
+}
+.pav2{
+  font-family: arial;
+  text-align: center;
+}
+h1{
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+body{
+  background-color: GhostWhite;
+}
